@@ -2,11 +2,17 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**2** solved · 0 problems · 0 labs · 2 math
+**5** solved · 1 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
 [**Browse the interactive portfolio**](https://DRosafio.github.io/deep-ml/) to replay this filling in over time.
+
+## Problems
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-09-02 | [solution](problems/0121-vector-element-wise-sum) |
 
 ## Math
 
@@ -14,6 +20,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-09-01 | [solution](math/0009-matrix-basics) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-08-31 | [solution](math/0007-vector-operations) |
+| [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-09-02 | [solution](math/0010-matrix-multiplication) |
+| [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-02 | [solution](math/0008-vector-norms-and-linear-independence) |
 
 ---
 
